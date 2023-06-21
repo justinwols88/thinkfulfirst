@@ -1,2 +1,1 @@
-# thinkfulfirst
-first repo project
+# pizza
